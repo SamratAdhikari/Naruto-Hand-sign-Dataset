@@ -1,1 +1,1 @@
-# Naruto-Hand-sign-Dataset-
+# Naruto-Hand-sign-Dataset
